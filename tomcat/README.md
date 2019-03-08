@@ -1,1 +1,1 @@
-Download, insatll and configure Tomcat server and configure it.
+This playbook can be used to download, insatll and configure Tomcat server.
