@@ -1,2 +1,2 @@
 # ansible-reference
-A repository for Ansible reference scripts
+A reference repository for Ansible scripts
